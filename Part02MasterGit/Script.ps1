@@ -7,7 +7,7 @@ git --version
 #Turn any folder into a repo which creates a sub .git folder
 git init
 git help init #to open man pages for detail or
-git init --help #to also open man page
+git init --help #to also open man page 
 
 #View the hidden folder
 Get-ChildItem -Force   #notice the .git
